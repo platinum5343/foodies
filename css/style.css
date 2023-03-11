@@ -35,6 +35,7 @@ ol {
     --secondary-font: 'Quicksand' sans-serif;
 
 }
+
 html {
     scroll-behavior: smooth;
 }
@@ -62,7 +63,7 @@ body {
 h1 {
     font-size: 3rem;
     font-weight: 900;
-    margin-buttom: 3rem;
+    margin-bottom: 3rem;
 }
 
 h2 {
